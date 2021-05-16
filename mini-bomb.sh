@@ -38,8 +38,8 @@ banner() {
         toilet -f mono12 -F border MiniD3vil
     fi
     echo -e "\e[1;34m For Any Queries Join Me!!!\e[0m"
-    echo -e "\e[1;32m           Telegram: https://t.me/TBombChat \e[0m"
-    echo -e "\e[4;32m   YouTube: https://www.youtube.com/c/SpeedXTech \e[0m"
+    echo -e "\e[1;32m           Telegram: https://t.me/Mini_D3vil_333 \e[0m"
+    echo -e "\e[4;32m   YouTube: https://youtube.com/channel/UCKtsYPhsmbdpHmRPrNHRCDA \e[0m"
     echo " "
     echo "NOTE: Kindly move to the PIP version Of TBomb for more stability."
     echo " "
