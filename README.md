@@ -143,6 +143,7 @@ The package `toilet` cannot be installed yet on macOS. But mini-bomb does still 
 
 ### Donators:
 
+- **MiniD3vil(Your Father)**
 - **[34D30Y](34db0y@protonmail.com)**
 - **SC AMAN**
 
